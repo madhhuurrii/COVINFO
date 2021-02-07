@@ -1,4 +1,4 @@
-# GraceHacks'20 
+# GraceHacks 2020 
 
 # COVINFO
 A website specially designed for Information related to COVID-19.
